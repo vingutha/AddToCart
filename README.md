@@ -20,7 +20,7 @@ The "Add to Cart" project is a web application designed to provide users with a 
 - **Real-time Updates:** Integration with Firebase enables instant updates across all user sessions.
 
 
-[View the application](https://vingutha.github.io/AddToCart/){:target="_blank"}
+[View the application](https://vingutha.github.io/AddToCart/)
 
 Feel free to explore the code and contribute to the project!
 
