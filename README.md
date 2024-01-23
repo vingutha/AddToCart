@@ -19,8 +19,8 @@ The "Add to Cart" project is a web application designed to provide users with a 
 - **Secure Authentication:** Firebase authentication ensures secure logins and personalized user experiences.
 - **Real-time Updates:** Integration with Firebase enables instant updates across all user sessions.
 
-## Usage
-To get started, [[View the application](https://vingutha.github.io/AddToCart/)] {:target="_blank"}
+
+[[View the application](https://vingutha.github.io/AddToCart/) {:target="_blank"}] 
 
 Feel free to explore the code and contribute to the project!
 
